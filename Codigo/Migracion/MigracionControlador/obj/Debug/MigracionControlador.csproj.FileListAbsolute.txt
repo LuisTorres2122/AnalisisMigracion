@@ -13,3 +13,12 @@ T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionContro
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.dll
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CopyComplete
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb

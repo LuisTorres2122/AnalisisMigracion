@@ -10,3 +10,9 @@ T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb
