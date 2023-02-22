@@ -1,0 +1,12 @@
+C:\Users\luist\source\repos\Migracion\MigracionModelo\bin\Debug\MigracionModelo.dll
+C:\Users\luist\source\repos\Migracion\MigracionModelo\bin\Debug\MigracionModelo.pdb
+C:\Users\luist\source\repos\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.AssemblyReference.cache
+C:\Users\luist\source\repos\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
+C:\Users\luist\source\repos\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
+C:\Users\luist\source\repos\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.AssemblyReference.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb

@@ -1,0 +1,12 @@
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

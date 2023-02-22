@@ -1,0 +1,15 @@
+C:\Users\luist\source\repos\Migracion\MigracionControlador\bin\Debug\MigracionControlador.dll
+C:\Users\luist\source\repos\Migracion\MigracionControlador\bin\Debug\MigracionControlador.pdb
+C:\Users\luist\source\repos\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.AssemblyReference.cache
+C:\Users\luist\source\repos\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CoreCompileInputs.cache
+C:\Users\luist\source\repos\Migracion\MigracionControlador\obj\Debug\MigracionControlador.dll
+C:\Users\luist\source\repos\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.AssemblyReference.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CoreCompileInputs.cache
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CopyComplete
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.dll
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.pdb
