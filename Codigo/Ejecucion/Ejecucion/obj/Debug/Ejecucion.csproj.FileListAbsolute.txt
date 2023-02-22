@@ -10,3 +10,15 @@ T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\D
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

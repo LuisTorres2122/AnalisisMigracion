@@ -17,3 +17,16 @@ T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.GenerateResource.cache
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Menu.resources
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Properties.Resources.resources
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionVista.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionVista.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionControlador.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionControlador.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Menu.resources
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Properties.Resources.resources
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Splash.resources
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cita.resources
