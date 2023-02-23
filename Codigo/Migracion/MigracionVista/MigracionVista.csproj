@@ -105,6 +105,9 @@
     <EmbeddedResource Include="Cita.resx">
       <DependentUpon>Cita.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Entrega.resx">
+      <DependentUpon>Entrega.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
