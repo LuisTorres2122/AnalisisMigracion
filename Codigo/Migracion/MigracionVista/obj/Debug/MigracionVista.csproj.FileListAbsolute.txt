@@ -30,3 +30,19 @@ C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\pr
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.dll
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.pdb
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cita.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionVista.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionVista.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionControlador.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\bin\Debug\MigracionControlador.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cancelar_cita.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cita.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Entrega.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Menu.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Properties.Resources.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Splash.resources
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.GenerateResource.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.CopyComplete
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.pdb
