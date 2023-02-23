@@ -99,6 +99,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Cancelar_cita.resx">
+      <DependentUpon>Cancelar_cita.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Cita.resx">
       <DependentUpon>Cita.cs</DependentUpon>
     </EmbeddedResource>
