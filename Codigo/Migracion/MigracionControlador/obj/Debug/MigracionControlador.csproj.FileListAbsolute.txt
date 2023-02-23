@@ -22,3 +22,12 @@ C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\pr
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CopyComplete
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.dll
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionControlador.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\bin\Debug\MigracionModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.csproj.CopyComplete
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionControlador\obj\Debug\MigracionControlador.pdb

@@ -16,3 +16,9 @@ C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\pr
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\bin\Debug\MigracionModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionModelo\obj\Debug\MigracionModelo.pdb
