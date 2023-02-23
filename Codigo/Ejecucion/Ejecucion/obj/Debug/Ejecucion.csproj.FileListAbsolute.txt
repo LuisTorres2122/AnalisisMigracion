@@ -22,3 +22,16 @@ C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\pr
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
 C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE 9\INGENIERIA DE SOFTWARE\PROYECTO\proyerctomigracionJason\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.dll
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\bin\Debug\MigracionVista.pdb
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+D:\Usuarios\jfeli\Escritorio\IGSoftware G2\AnalisisMigracion\Codigo\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
