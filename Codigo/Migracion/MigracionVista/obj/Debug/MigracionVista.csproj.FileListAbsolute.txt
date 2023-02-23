@@ -17,3 +17,4 @@ T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.GenerateResource.cache
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Menu.resources
 T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Properties.Resources.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cancelar_cita.resources
