@@ -46,3 +46,8 @@ C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigrac
 C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.csproj.CopyComplete
 C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.dll
 C:\Users\Mayén Ramírez\Desktop\Proyecto Ingeniería de software\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.pdb
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cancelar_cita.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Cita.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Entrega.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Registro.resources
+T:\Univesidad2.0\9semestre\IS\AnalisisMigracion\Codigo\Migracion\MigracionVista\obj\Debug\MigracionVista.Validacion.resources

@@ -29,7 +29,6 @@ namespace MigracionVista
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Validacion));
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -171,11 +170,12 @@ namespace MigracionVista
             // pbxPrincipal
             // 
             this.pbxPrincipal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(57)))), ((int)(((byte)(152)))), ((int)(((byte)(230)))));
-            this.pbxPrincipal.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pbxPrincipal.BackgroundImage")));
             this.pbxPrincipal.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pbxPrincipal.Image = global::MigracionVista.Properties.Resources.LOGOBLANCO;
             this.pbxPrincipal.Location = new System.Drawing.Point(12, 331);
             this.pbxPrincipal.Name = "pbxPrincipal";
             this.pbxPrincipal.Size = new System.Drawing.Size(174, 107);
+            this.pbxPrincipal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbxPrincipal.TabIndex = 27;
             this.pbxPrincipal.TabStop = false;
             // 

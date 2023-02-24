@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Realizado por George Mayen 24-02-2023
 namespace MigracionVista
 {
     public partial class Registro : Form
